@@ -1,157 +1,157 @@
-const = recipes [
+const data = [
      {
-        "id": 1,
+        "id": "1",
         "title": "Apple Galette",
         "description":"Serve it warm with vanilla ice cream for the most enjoyable pairing and sublime flavor! Just imagine it a crisp and flaky truly unbeatable crust finished with a crunchy coarse sugar. Then blanketed over are tender lightly tart warmly cinnamon spiced apples. And it’s all crowned with rich creamy sweet vanilla ice cream.Talk about tempting! If only it could pass for a decent breakfast I’d be eating it everyday.",
-      "ingredients":
-        "- 1 1/2 cups (214 g) unbleached all-purpose flour (scoop and level to measure)
-        - 1 Tbsp (11 g) granulated sugar
-        - 1/4 tsp salt
-        - 10 Tbsp (142 g) unsalted butter cut into 1/2-inch cubes
-        - 4 to 5 Tbsp ice water
-        - 1 1/2 lbs (3 large) baking apples*
-        - 1/4 cup (50 g) granulated sugar**
-        - 1/2 tsp ground cinnamon
-        - 2 Tbsp (28 g) unsalted butter diced into 1/4-inch cubes",
-      "procedure":
-        "1 In a large mixing bowl whisk together flour, sugar and salt.
-        2 Add 10 Tbsp butter cubes and cut into mixture using a pastry blender until there are just small pea size clumps of butter throughout (some larger are fine).
-        3 Drizzle in 1 Tbsp ice water at a time and toss right away adding just enough water until mixture comes together in larger clumps. Dump dough out onto a clean surface and knead several times until dough just comes together.
-        4 Press into an even disk (about 5 to 6 inches across). Wrap in plastic wrap and chill 30 to 60 minutes.
-        5 Preheat oven to 375 degrees. Line a rimmed 18 by 13-inch baking sheet with parchment paper.
-        6 Remove dough from fridge dust top with flour and roll out onto a well floured surface to about a 13.5-inch round.
-        7 Fold dough in half then in half again and transfer to a parchment paper lined baking sheet with the corner in the center and unfold the dough (it will run up the sides of the pan and that's ok). Transfer to fridge.
-        8 Peel core halve and thinly slice each of the apples (about 1/6th-inch thickness if using golden delicious slice 1/4-inch).
-        9 Place apples in a large mixing bowl add 1/4 cup sugar and the cinnamon and toss to evenly coat.
-        10 Align apples in a circular pattern over crus leaving about a 2-inch edge uncovered with apples.
-        11 Fold dough edges up over apples. Start at one point in the round then move around the crust folding up about every 3-inches.
-        12 In a mixing bowl whisk egg with water then use a pastry brush to brush edges of the pie crust. Sprinkle edges with the turbinado sugar. Dot remaining 2 Tbsp butter over apples.
-        13 Bake in preheated oven until apples are tender about 40 to 50 minutes. After removing from the oven
-        14 Let cool for about 10 minutes. Brush with honey or apricot preserves if desired before slicing. Serve with vanilla ice cream if desired.",
-      
+        "ingredients": [
+        "- 1 1/2 cups (214 g) unbleached all-purpose flour (scoop and level to measure)",
+        "- 1 Tbsp (11 g) granulated sugar",
+        "- 1/4 tsp salt",
+        "- 10 Tbsp (142 g) unsalted butter cut into 1/2-inch cubes",
+        "- 4 to 5 Tbsp ice water",
+        "- 1 1/2 lbs (3 large) baking apples",
+        "- 1/4 cup (50 g) granulated sugar",
+        "- 1/2 tsp ground cinnamon",
+        "- 2 Tbsp (28 g) unsalted butter diced into 1/4-inch cubes",
+       ]
+      "procedure":[
+        "1 In a large mixing bowl whisk together flour, sugar and salt.",
+        "2 Add 10 Tbsp butter cubes and cut into mixture using a pastry blender until there are just small pea size clumps of butter throughout (some larger are fine).",
+        "3 Drizzle in 1 Tbsp ice water at a time and toss right away adding just enough water until mixture comes together in larger clumps. Dump dough out onto a clean surface and knead several times until dough just comes together.",
+        "4 Press into an even disk (about 5 to 6 inches across). Wrap in plastic wrap and chill 30 to 60 minutes.",
+        "5 Preheat oven to 375 degrees. Line a rimmed 18 by 13-inch baking sheet with parchment paper.",
+        "6 Remove dough from fridge dust top with flour and roll out onto a well floured surface to about a 13.5-inch round.",
+        "7 Fold dough in half then in half again and transfer to a parchment paper lined baking sheet with the corner in the center and unfold the dough (it will run up the sides of the pan and that's ok). Transfer to fridge.",
+        "8 Peel core halve and thinly slice each of the apples (about 1/6th-inch thickness if using golden delicious slice 1/4-inch).",
+        "9 Place apples in a large mixing bowl add 1/4 cup sugar and the cinnamon and toss to evenly coat.",
+        "10 Align apples in a circular pattern over crus leaving about a 2-inch edge uncovered with apples.",
+        "11 Fold dough edges up over apples. Start at one point in the round then move around the crust folding up about every 3-inches.",
+        "12 In a mixing bowl whisk egg with water then use a pastry brush to brush edges of the pie crust. Sprinkle edges with the turbinado sugar. Dot remaining 2 Tbsp butter over apples.",
+        "13 Bake in preheated oven until apples are tender about 40 to 50 minutes. After removing from the oven",
+        "14 Let cool for about 10 minutes. Brush with honey or apricot preserves if desired before slicing. Serve with vanilla ice cream if desired.",
+      ],
       "image": "",
       "categories": "dessert"
     },
     {
-        "id": 2,
+        "id": "2",
         "title": "Berry Trifle",
-        "description":"
-        And don’t be deceived by it’s fancy good looks you’ll actually find it really a breeze to prepare. That is thanks to the use of a store-bought cake to save plenty of prep time and no cool time required Did I mention it’s a no-bake no-cook dessert as well?There’s just a few simple steps here of chopping whipping and layering.And while it’s true that many of us may not be big fans of store-bought cakes this recipe is one of the best ways to doctor up an otherwise boring and slightly dry angel food cake. The secret is in the fresh lemon and honey glaze that’s brushed over it.I think you’ll love the flavor in this dessert! Everything here pairs beautifully together and it’s sure to be a highlight of any summer gathering!",
-        "ingredients":"- 1 (13 to 16 oz) store-bought angel food cake
-        - 3 Tbsp fresh lemon juice
-        - 1 1/2 tsp lemon zest
-        - 3 Tbsp honey
-        - 1 3/4 cups heavy cream
-        - 12 oz. cream cheese
-        - 1 1/4 cups (160g) powdered sugar
-        - 1 1/2 tsp vanilla extract
-        - 16 oz. fresh strawberries sliced
-        - 18 oz. fresh blueberries
-        - 6 oz fresh raspberries
-        - Mint leaves, optional",
-        "procedure":"1 Slice angel food cake into 3/4-inch thick slices.
-        2 In a small mixing bowl whisk together lemon juice lemon zest and honey until well blended. Brush mixture over each both sides of the angel food cake slices (try to use all of it up).
-        3 Cut angel food cake slices into 3/4-inch cubes. Set aside.
-        4 
-        5 In a large mixing bowl using an electric hand mixer whip the heavy cream on medium speed until slightly thickened then increase speed to high and whip until very stiff peaks form (it should star to loose that wet sheen).
-        6 In a separate large mixing bowl using electric hand mixer (no need to clean beater blades) whip cream cheese powdered sugar and vanilla extract on low speed until blended. Increase speed to high and whip until light and fluffy about 2 to 3 minutes.
-        7 Add whipped cream to the cream cheese mixture and fold with a spatula until mixtures are evenly combined.","image": "url","categories": "dessert",
+        "description":"And don’t be deceived by it’s fancy good looks you’ll actually find it really a breeze to prepare. That is thanks to the use of a store-bought cake to save plenty of prep time and no cool time required Did I mention it’s a no-bake no-cook dessert as well?There’s just a few simple steps here of chopping whipping and layering.And while it’s true that many of us may not be big fans of store-bought cakes this recipe is one of the best ways to doctor up an otherwise boring and slightly dry angel food cake. The secret is in the fresh lemon and honey glaze that’s brushed over it.I think you’ll love the flavor in this dessert! Everything here pairs beautifully together and it’s sure to be a highlight of any summer gathering!",
+        "ingredients":[
+            "- 1 (13 to 16 oz) store-bought angel food cake",
+            "- 3 Tbsp fresh lemon juice",
+            "- 1 1/2 tsp lemon zest",
+            "- 3 Tbsp honey",
+            "- 1 3/4 cups heavy cream",
+            "- 12 oz. cream cheese",
+            "- 1 1/4 cups (160g) powdered sugar",
+            "- 1 1/2 tsp vanilla extract",
+            "- 16 oz. fresh strawberries sliced",
+            "- 18 oz. fresh blueberries",
+            "- 6 oz fresh raspberries",
+            "- Mint leaves, optional",
+        ],
+        "procedure":[
+            "1 Slice angel food cake into 3/4-inch thick slices.",
+            "2 In a small mixing bowl whisk together lemon juice lemon zest and honey until well blended. Brush mixture over each both sides of the angel food cake slices (try to use all of it up).",
+            "3 Cut angel food cake slices into 3/4-inch cubes. Set aside.",
+            "5 In a large mixing bowl using an electric hand mixer whip the heavy cream on medium speed until slightly thickened then increase speed to high and whip until very stiff peaks form (it should star to loose that wet sheen).",
+            "6 In a separate large mixing bowl using electric hand mixer (no need to clean beater blades) whip cream cheese powdered sugar and vanilla extract on low speed until blended. Increase speed to high and whip until light and fluffy about 2 to 3 minutes.",
+            "7 Add whipped cream to the cream cheese mixture and fold with a spatula until mixtures are evenly combined.",
+        ],
+        "image": "url",
+        "categories": "dessert",
     },
     {
-        "id": 3,
+        "id": "3",
         "title": "Chocolate Cream Pie",
-        "description":"
-        just like chocolate pudding but in pie form!
-        Sure during the holidays we all love our fruity pies but some sort of chocolate pie is always a welcome change and definitely deserves a place in the line up. Chocolate lovers will thank you.
-        
-        It will be savored down to the last creamy topped crumb and may likely become a repeatedly requested tradition each holiday season!
-        
-        There are a few steps to it especially if you prepare the homemade pie crust but it’s worth every bit of effort and overall it is a straightforward easy method to follow. A critical step is just that you ensure the filling is thickened well over the stovetop so you’re pie will be firm enough to hold up when sliced.","ingredients":"- 1 blind baked pie crust, recipe here
-        - 4 oz. bittersweet chocolate (60 to 65 percent) chopped small
-        - 3 Tbsp (42 g) unsalted butter cut into 1 Tbsp pieces
-        - 2 tsp vanilla extract
-        - 2/3 cup (136 g) granulated sugar
-        - 1/4 cup (24 g) Dutch process cocoa powder (scoop and level to measure)
-        - 1/4 cup (33 g) cornstarch (scoop and level to measure)
-        - 1/4 tsp salt
-        - 3 large egg yolks
-        - 3 cups (710 ml) whole milk divided",
-        "procedure":"1 For the pie crust: Prepare and bake the pie crust as directed. Let it cool completely.2 For the pie filling: Place chopped chocolate and butter in a large mixing bowl pour in 2 tsp vanilla. Set a large sieve over the bowl and set aside.
-        3 In a 3 quart saucepan whisk together 2/3 cup sugar the cocoa powder cornstarch and salt until well blended.
-        4 Whisk in egg yolks and 1/2 cup of the milk until well combined. Mix in the remaining 2 1/2 cups milk.
-        5 Set mixture over medium heat and cook whisking constantly (don't forget to scrape along the bottom corners of the pan while whisking) until mixture boils (bubbles should be over the top surface not just the edges). Let boil 1 minute while whisking constantly.
-        6 Pour the mixture into sieve set over chocolate mixture then press with a silicone spatula against sieve to remove lumps.
-        7 Stir stained mixture with the chocolate and butter mixture until everything is melted.",
+        "description":"just like chocolate pudding but in pie form!Sure during the holidays we all love our fruity pies but some sort of chocolate pie is always a welcome change and definitely deserves a place in the line up. Chocolate lovers will thank you.It will be savored down to the last creamy topped crumb and may likely become a repeatedly requested tradition each holiday season!There are a few steps to it especially if you prepare the homemade pie crust but it’s worth every bit of effort and overall it is a straightforward easy method to follow. A critical step is just that you ensure the filling is thickened well over the stovetop so you’re pie will be firm enough to hold up when sliced.",
+        "ingredients":[
+            "- 1 blind baked pie crust, recipe here",
+            "- 4 oz. bittersweet chocolate (60 to 65 percent) chopped small",
+            "- 3 Tbsp (42 g) unsalted butter cut into 1 Tbsp pieces",
+            "- 2 tsp vanilla extract",
+            "- 2/3 cup (136 g) granulated sugar",
+            "- 1/4 cup (24 g) Dutch process cocoa powder (scoop and level to measure)",
+            "- 1/4 cup (33 g) cornstarch (scoop and level to measure)",
+            "- 1/4 tsp salt",
+            "- 3 large egg yolks",
+            "- 3 cups (710 ml) whole milk divided",
+        ],
+        "procedure":[
+        "1 For the pie crust: Prepare and bake the pie crust as directed. Let it cool completely.2 For the pie filling: Place chopped chocolate and butter in a large mixing bowl pour in 2 tsp vanilla. Set a large sieve over the bowl and set aside.",
+        "3 In a 3 quart saucepan whisk together 2/3 cup sugar the cocoa powder cornstarch and salt until well blended.",
+        "4 Whisk in egg yolks and 1/2 cup of the milk until well combined. Mix in the remaining 2 1/2 cups milk.",
+        "5 Set mixture over medium heat and cook whisking constantly (don't forget to scrape along the bottom corners of the pan while whisking) until mixture boils (bubbles should be over the top surface not just the edges). Let boil 1 minute while whisking constantly.",
+        "6 Pour the mixture into sieve set over chocolate mixture then press with a silicone spatula against sieve to remove lumps.",
+        "7 Stir stained mixture with the chocolate and butter mixture until everything is melted.",
+        ],
         "image": "url",
         "categories": "dessert"
     },
     {
-        "id": 4,
+        "id": "4",
         "title": "Christmas Tree Cookies",
-        "description":"
-        I made these with my kids this weekend for a fun baking project and I thought they were too good not to share.
-        
-        These are unbelievably soft deliciously buttery perfectly sweet (once you add the frosting) and they’re simplistically satisfying – yet pretty and festive. Plus the decorating options are endless.
-        
-        I’ve listed the recipe to include a little extra frosting because we know how kids (and some of us adults) like to decorate cookies – extra frosting and loads of sprinkles.
-        
-        If you like sugar cookies or blondies this is the holiday cookie for you!",
-        "ingredients":"- 1 1/3 cups (186g) unbleached all-purpose flour (scoop and level to measure)
-        - 1/4 tsp baking soda
-        - 1/4 tsp salt
-        - 2/3 cup (135g) granulated sugar
-        - 10 Tbsp (141g) unsalted butter softened
-        - 1 large egg
-        - 1 tsp vanilla extract
-        - 1/4 tsp almond extract*",
-        "procedure":"1 Preheat oven to 350 degrees. Butter a 9-inch springform pan or cake pan line with a round of parchment paper and butter parchment paper. Dust pan lightly with flour then shake out excess.
-        2 In a medium mixing bowl whisk together flour baking soda and salt. Set aside.
-        3 In the bowl of an electric stand mixer fitted with the paddle attachment blend together butter and granulated sugar until combined. Scrape down bowl.
-        4 Mix in egg then mix in 1 tsp vanilla and the almond extract. Scrape down bowl.
-        5 Add flour mixture and mix until combined.
-        6 Scoop dough into prepared pan. Spray hands with non-stick cooking spray then spread dough into an even layer in pan.
-        7 Bake in preheated oven until set about 14 - 16 minutes.
-        8 If sides are a little higher after baking you can flatten down with the bottom of a measuring cup. Let cookie cool completely on a wire rack (about 1 hour).
-        9 To make the frosting in a medium mixing bowl using an electric hand mixer blend together powdered sugar butter milk and 1/2 tsp vanilla until well combined. Tint with food coloring if using.
-        10 Transfer frosting to a resealable bag seal bag while pressing excess air out. Cut one small corner from the bottom edge set aside.
-        11 Run a small sharp knife along edge of the cookie in pan to ensure it's loose. If you used a springform pan remove then ring if you used a cake pan the invert cookie onto a cutting board (it make take some forceful tapping on bottom or dropping pan upside down to help coax it out).
-        12 Cut cookie into 8 wedges then trim rounded ends if desired.
-        13 Decorate cookies with frosting sprinkles and pretzel pieces for tree trunks if using. Just gently press pretzel into cookie if using.",
+        "description":"I made these with my kids this weekend for a fun baking project and I thought they were too good not to share. These are unbelievably soft deliciously buttery perfectly sweet (once you add the frosting) and they’re simplistically satisfying – yet pretty and festive. Plus the decorating options are endless.I’ve listed the recipe to include a little extra frosting because we know how kids (and some of us adults) like to decorate cookies – extra frosting and loads of sprinkles.If you like sugar cookies or blondies this is the holiday cookie for you!",
+        "ingredients":[
+        "- 1 1/3 cups (186g) unbleached all-purpose flour (scoop and level to measure)",
+        "- 1/4 tsp baking soda",
+        "- 1/4 tsp salt",
+        "- 2/3 cup (135g) granulated sugar",
+        "- 10 Tbsp (141g) unsalted butter softened",
+        "- 1 large egg",
+        "- 1 tsp vanilla extract",
+        "- 1/4 tsp almond extract*",
+        ],
+        "procedure":[
+        "1 Preheat oven to 350 degrees. Butter a 9-inch springform pan or cake pan line with a round of parchment paper and butter parchment paper. Dust pan lightly with flour then shake out excess.
+        "2 In a medium mixing bowl whisk together flour baking soda and salt. Set aside.",
+        "3 In the bowl of an electric stand mixer fitted with the paddle attachment blend together butter and granulated sugar until combined. Scrape down bowl.",
+        "4 Mix in egg then mix in 1 tsp vanilla and the almond extract. Scrape down bowl.",
+        "5 Add flour mixture and mix until combined.",
+        "6 Scoop dough into prepared pan. Spray hands with non-stick cooking spray then spread dough into an even layer in pan.",
+        "7 Bake in preheated oven until set about 14 - 16 minutes.",
+        "8 If sides are a little higher after baking you can flatten down with the bottom of a measuring cup. Let cookie cool completely on a wire rack (about 1 hour).",
+        "9 To make the frosting in a medium mixing bowl using an electric hand mixer blend together powdered sugar butter milk and 1/2 tsp vanilla until well combined. Tint with food coloring if using.",
+        "10 Transfer frosting to a resealable bag seal bag while pressing excess air out. Cut one small corner from the bottom edge set aside.",
+        "11 Run a small sharp knife along edge of the cookie in pan to ensure it's loose. If you used a springform pan remove then ring if you used a cake pan the invert cookie onto a cutting board (it make take some forceful tapping on bottom or dropping pan upside down to help coax it out).",
+        "12 Cut cookie into 8 wedges then trim rounded ends if desired.",
+        "13 Decorate cookies with frosting sprinkles and pretzel pieces for tree trunks if using. Just gently press pretzel into cookie if using.",
+        ],
         "image": "url",
-        "categories": "desserts"
+        "categories": "desserts",
     },
     {
-        "id": 5,
+        "id": "5",
         "title": "Marshmallows",
-        "description":"
-        They truly are the best marshmallows you’ll ever eat (we’ve already made 5 batches for the holidays)! And they don’t require any fancy ingredients just some candy staples.
-        
-        For a streamlined process just be sure to have everything measured and tools ready before you begin to make things easier (such as lining and greasing the pan because this sticky mixture likes to begin to set quickly). Also read over the entire recipe before you start (as should be done with any recipe).
-        
-        These also make for a delicious Christmas gif paired with a jar of this homemade hot chocolate mix of course! The two combined makes the tastiest cup of hot cocoa ever!",
-        "ingredients":"- 2/3 cup (80g) powdered sugar
-        - 1/3 cup (46g) cornstarch
-        - 1 cup (235ml) cold water divided
-        - 2 1/2 Tbsp (24g) unflavored gelatin powder
-        - 2/3 cup (155ml) light corn syrup
-        - 2 cups (400g) granulated sugar
-        - 1/4 tsp salt
-        - 2 tsp vanilla extract",
-        "procedure":"1 In a medium mixing bowl whisk together powered sugar and cornstarch. Set aside.
-        2 Line a 13 by 9-inch baking dish (for smaller marshmallows) or 9 by 9-inch baking dish (if you want larger marshmallows) with two sheets of aluminum foil leaving a 1-inch overhang on all sides. Spray foil with non-stick cooking spray. Spray a spatula with non-stick cooking spray and set near baking dish.
-        3 Add 1/2 cup water to bowl of electric stand mixer. While whisking sprinkle gelatin in and whisk quickly for a few seconds scrape down any gelatin from the sides. Let mixture rest 15 minutes until firm. Securely attach mixer bowl to stand mixer and set stand mixer with a whisk attachment.
-        4 Meanwhile pour remaining 1/2 cup water and the corn syrup into a medium saucepan. Pour sugar and salt into the center of the saucepan (so it doesn't touch sides and burn).
-        5 Set over medium-high heat and bring to a boil. Let boil while occasionally gently swirling pan for even cooking until mixture reaches 240 degrees on a candy thermometer about 6 to 8 minutes.
-        6 Right away set the stand mixer to low speed and carefully pour the hot sugar mixture into the gelatin mixture while avoiding the whisk. Gradually increase speed to high then whip until mixture is very fluff well thickened and coats whisk about 5 to 12 minutes.*
-        7 Add the vanilla and continue to blend on high speed until well combined about 15 seconds longer.
-        8 Quickly scrape the mixture into the prepared baking dish then use the greased spatula to spread into an even layer. Sift 2 Tbsp of the powdered sugar mixture evenly over the top. Cover pan and let rest 12 hours for marshmallows to set completely.
-        9 Dust a cutting board evenly with 2 Tbsp of the powdered sugar mixture and lightly spray a large chef's knife with non-stick cooking spray.
-        10 Invert marshmallows onto cutting board then peel away the foil. Sift 2 Tbsp powdered sugar mixture evenly over top of the marshmallow slab.
-        11 Cut marshmallows into rows then to desired individual size (for the smaller marshmallows cut 1-inch squares for larger marshmallows 1 1/2-inch squares).
-        12 Working with about 5 marshmallows at a time transfer them to the remaining powdered sugar mixture and toss to coat all sides. Place in a sieve and shake off excess powered sugar back into bowl.
-        13 Store at room temperature up to 2 weeks in an airtight container.",
+        "description":"They truly are the best marshmallows you’ll ever eat (we’ve already made 5 batches for the holidays)! And they don’t require any fancy ingredients just some candy staples.For a streamlined process just be sure to have everything measured and tools ready before you begin to make things easier (such as lining and greasing the pan because this sticky mixture likes to begin to set quickly). Also read over the entire recipe before you start (as should be done with any recipe).These also make for a delicious Christmas gif paired with a jar of this homemade hot chocolate mix of course! The two combined makes the tastiest cup of hot cocoa ever!",
+        "ingredients":[
+        "- 2/3 cup (80g) powdered sugar",
+        "- 1/3 cup (46g) cornstarch",
+        "- 1 cup (235ml) cold water divided",
+        "- 2 1/2 Tbsp (24g) unflavored gelatin powder",
+        "- 2/3 cup (155ml) light corn syrup",
+        "- 2 cups (400g) granulated sugar",
+        "- 1/4 tsp salt",
+        "- 2 tsp vanilla extract",
+        ],
+        "procedure":[
+        "1 In a medium mixing bowl whisk together powered sugar and cornstarch. Set aside.",
+        " 2 Line a 13 by 9-inch baking dish (for smaller marshmallows) or 9 by 9-inch baking dish (if you want larger marshmallows) with two sheets of aluminum foil leaving a 1-inch overhang on all sides. Spray foil with non-stick cooking spray. Spray a spatula with non-stick cooking spray and set near baking dish.",
+        "3 Add 1/2 cup water to bowl of electric stand mixer. While whisking sprinkle gelatin in and whisk quickly for a few seconds scrape down any gelatin from the sides. Let mixture rest 15 minutes until firm. Securely attach mixer bowl to stand mixer and set stand mixer with a whisk attachment.",
+        "4 Meanwhile pour remaining 1/2 cup water and the corn syrup into a medium saucepan. Pour sugar and salt into the center of the saucepan (so it doesn't touch sides and burn).",
+        "5 Set over medium-high heat and bring to a boil. Let boil while occasionally gently swirling pan for even cooking until mixture reaches 240 degrees on a candy thermometer about 6 to 8 minutes.",
+        "6 Right away set the stand mixer to low speed and carefully pour the hot sugar mixture into the gelatin mixture while avoiding the whisk. Gradually increase speed to high then whip until mixture is very fluff well thickened and coats whisk about 5 to 12 minutes.*",
+        "7 Add the vanilla and continue to blend on high speed until well combined about 15 seconds longer.",
+        "8 Quickly scrape the mixture into the prepared baking dish then use the greased spatula to spread into an even layer. Sift 2 Tbsp of the powdered sugar mixture evenly over the top. Cover pan and let rest 12 hours for marshmallows to set completely.",
+        "9 Dust a cutting board evenly with 2 Tbsp of the powdered sugar mixture and lightly spray a large chef's knife with non-stick cooking spray.",
+        "10 Invert marshmallows onto cutting board then peel away the foil. Sift 2 Tbsp powdered sugar mixture evenly over top of the marshmallow slab.",
+        "11 Cut marshmallows into rows then to desired individual size (for the smaller marshmallows cut 1-inch squares for larger marshmallows 1 1/2-inch squares).",
+        "12 Working with about 5 marshmallows at a time transfer them to the remaining powdered sugar mixture and toss to coat all sides. Place in a sieve and shake off excess powered sugar back into bowl.",
+        "13 Store at room temperature up to 2 weeks in an airtight container.",
+        ],
         "image": "url",
-        "categories": "desserts"
+        "categories": "desserts",
     },
     {
         "id": 6,
