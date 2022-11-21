@@ -11,6 +11,7 @@ app.get("/",(req,res,next)=>{
       <li><a href='/category/:id'>Maindish</a></li>
       <li><a href='/category/:id'>Veggy</a></li>
       <li><a href='/category/:id'>Dessert</a></li>
+      <li><a href='/category/:id'>Dessert</a></li>
     </ul>
     `)
 })
