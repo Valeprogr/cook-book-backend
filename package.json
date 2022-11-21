@@ -1,0 +1,23 @@
+{
+  "name": "cook-book-backend",
+  "version": "1.0.0",
+  "description": "cook book project backend",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valeprogr/cook-book-backend.git"
+  },
+  "author": "ada, luca and  vale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valeprogr/cook-book-backend/issues"
+  },
+  "homepage": "https://github.com/Valeprogr/cook-book-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
