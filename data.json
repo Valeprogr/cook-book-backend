@@ -1,11 +1,8 @@
-{
+const = recipes [
     "recipe1": {
         "id": 1,
         "title": "Apple Galette",
-        "description":"
-    
-      
-      Serve it warm with vanilla ice cream for the most enjoyable pairing and sublime flavor!
+        "description":"Serve it warm with vanilla ice cream for the most enjoyable pairing and sublime flavor!
       
       Just imagine it a crisp and flaky truly unbeatable crust finished with a crunchy coarse sugar. Then blanketed over are tender lightly tart warmly cinnamon spiced apples. And it’s all crowned with rich creamy sweet vanilla ice cream.
       
@@ -600,4 +597,4 @@
         5 To bowl with couscous add tomatoes cucumber red onion feta almonds if using parsley and mint. Pour dressing over everything and toss to evenly coat.
         6 Season with salt and pepper to taste. Salad is best the day prepared but will keep in the fridge for 1 day","image": "url","categories": "veggy",
     }
-}
+]
