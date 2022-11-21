@@ -2,48 +2,41 @@ const = recipes [
      {
         "id": 1,
         "title": "Apple Galette",
-        "description":"Serve it warm with vanilla ice cream for the most enjoyable pairing and sublime flavor!
+        "description":"Serve it warm with vanilla ice cream for the most enjoyable pairing and sublime flavor! Just imagine it a crisp and flaky truly unbeatable crust finished with a crunchy coarse sugar. Then blanketed over are tender lightly tart warmly cinnamon spiced apples. And it’s all crowned with rich creamy sweet vanilla ice cream.Talk about tempting! If only it could pass for a decent breakfast I’d be eating it everyday.",
+      "ingredients":
+        "- 1 1/2 cups (214 g) unbleached all-purpose flour (scoop and level to measure)
+        - 1 Tbsp (11 g) granulated sugar
+        - 1/4 tsp salt
+        - 10 Tbsp (142 g) unsalted butter cut into 1/2-inch cubes
+        - 4 to 5 Tbsp ice water
+        - 1 1/2 lbs (3 large) baking apples*
+        - 1/4 cup (50 g) granulated sugar**
+        - 1/2 tsp ground cinnamon
+        - 2 Tbsp (28 g) unsalted butter diced into 1/4-inch cubes",
+      "procedure":
+        "1 In a large mixing bowl whisk together flour, sugar and salt.
+        2 Add 10 Tbsp butter cubes and cut into mixture using a pastry blender until there are just small pea size clumps of butter throughout (some larger are fine).
+        3 Drizzle in 1 Tbsp ice water at a time and toss right away adding just enough water until mixture comes together in larger clumps. Dump dough out onto a clean surface and knead several times until dough just comes together.
+        4 Press into an even disk (about 5 to 6 inches across). Wrap in plastic wrap and chill 30 to 60 minutes.
+        5 Preheat oven to 375 degrees. Line a rimmed 18 by 13-inch baking sheet with parchment paper.
+        6 Remove dough from fridge dust top with flour and roll out onto a well floured surface to about a 13.5-inch round.
+        7 Fold dough in half then in half again and transfer to a parchment paper lined baking sheet with the corner in the center and unfold the dough (it will run up the sides of the pan and that's ok). Transfer to fridge.
+        8 Peel core halve and thinly slice each of the apples (about 1/6th-inch thickness if using golden delicious slice 1/4-inch).
+        9 Place apples in a large mixing bowl add 1/4 cup sugar and the cinnamon and toss to evenly coat.
+        10 Align apples in a circular pattern over crus leaving about a 2-inch edge uncovered with apples.
+        11 Fold dough edges up over apples. Start at one point in the round then move around the crust folding up about every 3-inches.
+        12 In a mixing bowl whisk egg with water then use a pastry brush to brush edges of the pie crust. Sprinkle edges with the turbinado sugar. Dot remaining 2 Tbsp butter over apples.
+        13 Bake in preheated oven until apples are tender about 40 to 50 minutes. After removing from the oven
+        14 Let cool for about 10 minutes. Brush with honey or apricot preserves if desired before slicing. Serve with vanilla ice cream if desired.",
       
-      Just imagine it a crisp and flaky truly unbeatable crust finished with a crunchy coarse sugar. Then blanketed over are tender lightly tart warmly cinnamon spiced apples. And it’s all crowned with rich creamy sweet vanilla ice cream.
-      
-      Talk about tempting! If only it could pass for a decent breakfast I’d be eating it everyday.",
-      "ingredients":"- 1 1/2 cups (214 g) unbleached all-purpose flour (scoop and level to measure)
-      - 1 Tbsp (11 g) granulated sugar
-      - 1/4 tsp salt
-      - 10 Tbsp (142 g) unsalted butter cut into 1/2-inch cubes
-      - 4 to 5 Tbsp ice water
-      - 1 1/2 lbs (3 large) baking apples*
-      - 1/4 cup (50 g) granulated sugar**
-      - 1/2 tsp ground cinnamon
-      - 2 Tbsp (28 g) unsalted butter diced into 1/4-inch cubes",
-      "procedure":"1 In a large mixing bowl whisk together flour, sugar and salt.
-      2 Add 10 Tbsp butter cubes and cut into mixture using a pastry blender until there are just small pea size clumps of butter throughout (some larger are fine).
-      3 Drizzle in 1 Tbsp ice water at a time and toss right away adding just enough water until mixture comes together in larger clumps. Dump dough out onto a clean surface and knead several times until dough just comes together.
-      4 Press into an even disk (about 5 to 6 inches across). Wrap in plastic wrap and chill 30 to 60 minutes.
-      5 Preheat oven to 375 degrees. Line a rimmed 18 by 13-inch baking sheet with parchment paper.
-      6 Remove dough from fridge dust top with flour and roll out onto a well floured surface to about a 13.5-inch round.
-      7 Fold dough in half then in half again and transfer to a parchment paper lined baking sheet with the corner in the center and unfold the dough (it will run up the sides of the pan and that's ok). Transfer to fridge.
-      8 Peel core halve and thinly slice each of the apples (about 1/6th-inch thickness if using golden delicious slice 1/4-inch).
-      9 Place apples in a large mixing bowl add 1/4 cup sugar and the cinnamon and toss to evenly coat.
-      10 Align apples in a circular pattern over crus leaving about a 2-inch edge uncovered with apples.
-      11 Fold dough edges up over apples. Start at one point in the round then move around the crust folding up about every 3-inches.
-      12 In a mixing bowl whisk egg with water then use a pastry brush to brush edges of the pie crust. Sprinkle edges with the turbinado sugar. Dot remaining 2 Tbsp butter over apples.
-      13 Bake in preheated oven until apples are tender about 40 to 50 minutes. After removing from the oven
-      14 Let cool for about 10 minutes. Brush with honey or apricot preserves if desired before slicing. Serve with vanilla ice cream if desired.""image": "","categories": "dessert"
+      "image": "",
+      "categories": "dessert"
     },
     {
         "id": 2,
         "title": "Berry Trifle",
         "description":"
-        And don’t be deceived by it’s fancy good looks you’ll actually find it really a breeze to prepare. That is thanks to the use of a store-bought cake to save plenty of prep time and no cool time required
-        
-        Did I mention it’s a no-bake no-cook dessert as well?
-        
-        There’s just a few simple steps here of chopping whipping and layering.
-        
-        And while it’s true that many of us may not be big fans of store-bought cakes this recipe is one of the best ways to doctor up an otherwise boring and slightly dry angel food cake. The secret is in the fresh lemon and honey glaze that’s brushed over it.
-        
-        I think you’ll love the flavor in this dessert! Everything here pairs beautifully together and it’s sure to be a highlight of any summer gathering!",
+        And don’t be deceived by it’s fancy good looks you’ll actually find it really a breeze to prepare. That is thanks to the use of a store-bought cake to save plenty of prep time and no cool time required Did I mention it’s a no-bake no-cook dessert as well?There’s just a few simple steps here of chopping whipping and layering.And while it’s true that many of us may not be big fans of store-bought cakes this recipe is one of the best ways to doctor up an otherwise boring and slightly dry angel food cake. The secret is in the fresh lemon and honey glaze that’s brushed over it.I think you’ll love the flavor in this dessert! Everything here pairs beautifully together and it’s sure to be a highlight of any summer gathering!",
         "ingredients":"- 1 (13 to 16 oz) store-bought angel food cake
         - 3 Tbsp fresh lemon juice
         - 1 1/2 tsp lemon zest
