@@ -1,4 +1,6 @@
-const = recipes [
+const recipe = 
+{
+     "dessert": [
      {
         "id": 1,
         "title": "Apple Galette",
@@ -29,8 +31,7 @@ const = recipes [
         13 Bake in preheated oven until apples are tender about 40 to 50 minutes. After removing from the oven
         14 Let cool for about 10 minutes. Brush with honey or apricot preserves if desired before slicing. Serve with vanilla ice cream if desired.",
       
-      "image": "",
-      "categories": "dessert"
+      "image": ""
     },
     {
         "id": 2,
@@ -55,7 +56,7 @@ const = recipes [
         4 
         5 In a large mixing bowl using an electric hand mixer whip the heavy cream on medium speed until slightly thickened then increase speed to high and whip until very stiff peaks form (it should star to loose that wet sheen).
         6 In a separate large mixing bowl using electric hand mixer (no need to clean beater blades) whip cream cheese powdered sugar and vanilla extract on low speed until blended. Increase speed to high and whip until light and fluffy about 2 to 3 minutes.
-        7 Add whipped cream to the cream cheese mixture and fold with a spatula until mixtures are evenly combined.","image": "url","categories": "dessert",
+        7 Add whipped cream to the cream cheese mixture and fold with a spatula until mixtures are evenly combined.","image": "url"
     },
     {
         "id": 3,
@@ -82,8 +83,7 @@ const = recipes [
         5 Set mixture over medium heat and cook whisking constantly (don't forget to scrape along the bottom corners of the pan while whisking) until mixture boils (bubbles should be over the top surface not just the edges). Let boil 1 minute while whisking constantly.
         6 Pour the mixture into sieve set over chocolate mixture then press with a silicone spatula against sieve to remove lumps.
         7 Stir stained mixture with the chocolate and butter mixture until everything is melted.",
-        "image": "url",
-        "categories": "dessert"
+        "image": "url"
     },
     {
         "id": 4,
@@ -117,8 +117,7 @@ const = recipes [
         11 Run a small sharp knife along edge of the cookie in pan to ensure it's loose. If you used a springform pan remove then ring if you used a cake pan the invert cookie onto a cutting board (it make take some forceful tapping on bottom or dropping pan upside down to help coax it out).
         12 Cut cookie into 8 wedges then trim rounded ends if desired.
         13 Decorate cookies with frosting sprinkles and pretzel pieces for tree trunks if using. Just gently press pretzel into cookie if using.",
-        "image": "url",
-        "categories": "desserts"
+        "image": "url"
     },
     {
         "id": 5,
@@ -150,8 +149,7 @@ const = recipes [
         11 Cut marshmallows into rows then to desired individual size (for the smaller marshmallows cut 1-inch squares for larger marshmallows 1 1/2-inch squares).
         12 Working with about 5 marshmallows at a time transfer them to the remaining powdered sugar mixture and toss to coat all sides. Place in a sieve and shake off excess powered sugar back into bowl.
         13 Store at room temperature up to 2 weeks in an airtight container.",
-        "image": "url",
-        "categories": "desserts"
+        "image": "url"
     },
     {
         "id": 6,
@@ -187,8 +185,8 @@ const = recipes [
         8 Serve warm with crackers tortilla chips carrots celery or bell pepper.",
         "image": "url",
         "categories": "maindish"
-    },
-    {
+    }],
+    "maindish":[{
         "id": 7,
         "title": "Chicken Stir-Fry",
         "description":"
@@ -225,8 +223,7 @@ const = recipes [
         7 Whisk soy sauce mixture once more then pour into pan and cook tossing constantly until sauce has thickened and veggies are tender about 1  2 minutes
         8 Toss in chicken. Season with more soy sauce to taste if desired.
         9 Serve immediately over white or brown rice. If desired sprinkle with red pepper flakes or sesame seeds or drizzle with sriracha.",
-        "image": "url",
-        "categories": "maindish"
+        "image": "url"
     },
     {
         "id": 7,
@@ -263,8 +260,7 @@ const = recipes [
         5 Stir in diced tomatoes tomato sauce beef broth chili powder cumin paprik cocoa powder sugar coriander and season mixture with salt and pepper to taste.
         6 Cover with lid and cook on low heat for 5 - 6 hours.
         7 Stir in dark and light red kidney beans and allow to heat through, about 2 minutes. Serve warm with desired toppings.",
-        "image": "url",
-        "categories": "maindish"
+        "image": "url"
     },
     {
         "id": 8,
@@ -286,8 +282,7 @@ const = recipes [
         
         NOTES
         1 tablespoon of Chinese five spice powder can be substituted for the star anise.",
-        "image": "url",
-        "categories": "maindish"
+        "image": "url"
     },
     {
         "id": 10,
@@ -321,10 +316,9 @@ const = recipes [
         5 Add eggs cover with lid and let cook 14 minutes. Transfer to a bowl of ice water right away. Let rest 15 minutes then peel eggs and chop.
         6 Prepare salad: Layer lettuce into a large salad bowl or among five serving plates. Top with bacon eggs tomatoes onions avocado and blue cheese.
         7 Whisk dressing again then pour over salad and serve.",
-        "image": "url",
-        "categories": "maindish"
-    },
-    {
+        "image": "url"
+    }],
+    "seafood":[{
         "id": 11,
         "title": "Avocado Tuna Salad",
         "description":"
@@ -355,8 +349,7 @@ const = recipes [
         *If you plan on eating tuna a few times a month I recommend using light tun if you only eat it once in a while then white albacore is fine. I say this because recent studies show canned white albacore has 3x the mercury levels as light tuna so it shouldn't be eaten frequently.
         *Also if using the white albacore tuna mash it up in the bowl a bit first before adding other ingredients it just has a better mouthfeel this way.
         Nutrition is only for tuna salad bread or wrap not included.",
-        "image": "url",
-        "categories": "seafood"
+        "image": "url"
     },
     {
         "id": 12,
@@ -388,8 +381,7 @@ const = recipes [
         6 In a large mixing bowl gently toss together crab meat cucumber carrots nori ginger and avocado OR keep it separate and just divide chopped ingredients into sections over a rice layer in serving bowls.
         7 Divide prepared rice among 4 or 5 bowls. Top with crab mixture.
         8 Spoon soy sauce mixture over top of each serving. Cut a small tip from one corner of the resealable bag and drizzle sriracha mayo over each serving. Serve shortly after preparing (the avocado will start to brown).",
-        "image": "url",
-        "categories": "seafood"
+        "image": "url"
     },
     {
         "id": 13,
@@ -417,8 +409,7 @@ const = recipes [
         4 Toss shrimp with fresh ingredients: In a medium bowl (you can use the same bowl) combine shrimp lime juice lemon juice tomatoes onion cilantro jalapeno pepper and season with salt and pepper to taste.
         5 Marinate: Transfer to refrigerator and let rest 1 hour.
         6 Add last few ingredients: Toss in cucumber and avocado and serve. It’s delicious with tortilla chips or over tostada shells.",
-        "image": "url",
-        "categories": "seafood"
+        "image": "url"
     },
     {
         "id": 14,
@@ -451,8 +442,7 @@ const = recipes [
         Oven Method
         7 Preheat oven to 400 degrees. Line a baking sheet with parchment paper or spray with non-stick cooking spray.
         8 Place fish on prepared baking sheet. Bake until cooked through about 10 - 15 minutes (fish should flake easily with a fork).",
-        "image": "url",
-        "categories": "seafood"
+        "image": "url"
     },
     {
         "id": 15,
@@ -481,10 +471,9 @@ const = recipes [
         4 Boil then simmer mixture: Bring mixture to a light boil over medium-high heat. Reduce heat to low heat cover and simmer until rice is almost fully tender about 20 – 25 minutes. Stir in a little extra broth as needed.
         5 Add shrimp and okra: Stir in shrimp and okra cover and continue to cook until shrimp have cooked through about 4 – 5 minutes.
         6 Finish with cooked chicken and fresh greens: Stir in chicken green onions and parsley.",
-        "image": "url",
-        "categories": "seafood"
-    },
-    {
+        "image": "url"
+    }],
+    "veggy":[{
         "id": 16,
         "title": "Baked Sweet Potato",
         "description":"
@@ -516,8 +505,7 @@ const = recipes [
         6 Bake in preheated oven 15 minutes then remove from oven and turn fries.
         7 Return to oven (preferably on opposite rack the were on prior) and bake until until fries are golden brown in spots about 10 minutes longer
         8 Serve warm with a dipping sauce if desired. If you'd like you can also garnish with a little minced parsley for a pop of green color.",
-        "image": "url",
-        "categories": "veggy"
+        "image": "url"
     },
     {
         "id": 17,
@@ -551,8 +539,7 @@ const = recipes [
         7 Bake in preheated oven 50 - 60 minutes until potatoes are nearly tender.
         8 Uncover spoon sauce in dish over potatoes and continue to bake 10 - 20 minutes longer until potatoes are fully tender.
         9 Serve warm with sauce spooned over top.",
-        "image": "url",
-        "categories": "veggy"
+        "image": "url"
     },
     {
         "id": 18,
@@ -581,8 +568,7 @@ const = recipes [
         2 Pour into small bowl and let cool to room temperature about 10 minutes.
         3 Layer tomato slices fresh mozzarella slices and basil on a rimmed serving platter.
         4 Drizzle with olive oil balsamic reduction and season with salt and pepper to taste. Serve immediately.",
-        "image": "url",
-        "categories": "veggy"
+        "image": "url"
     },
     {
         "id": 19,
@@ -611,8 +597,7 @@ const = recipes [
         5 Cut kernels from corn then transfer to a large bowl.
         6 Add tomatoes cucumbers red onion feta parsley and basil.
         7 Whisk dressing again then pour over salad. Toss well to coat season with more salt as desired.",
-        "image": "url",
-        "categories": "veggy"
+        "image": "url"
     },
     {
         "id": 20,
@@ -645,9 +630,8 @@ const = recipes [
         4 In a small mixing bowl whisk together remaining 1/4 cup olive oil lemon juice and garlic.
         5 To bowl with couscous add tomatoes cucumber red onion feta almonds if using parsley and mint. Pour dressing over everything and toss to evenly coat.
         6 Season with salt and pepper to taste. Salad is best the day prepared but will keep in the fridge for 1 day",
-        "image": "url",
-        "categories": "veggy",
+        "image": "url"
     }
 ]
-
+}
 module.exports = {recipes}
