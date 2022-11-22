@@ -1,4 +1,4 @@
-const recipe = 
+const data = 
 {
      "dessert": [
      {
@@ -38,8 +38,7 @@ const recipe =
     {
         "id": 2,
         "title": "Berry Trifle",
-        "description":"
-        And don’t be deceived by it’s fancy good looks you’ll actually find it really a breeze to prepare. That is thanks to the use of a store-bought cake to save plenty of prep time and no cool time required Did I mention it’s a no-bake no-cook dessert as well?There’s just a few simple steps here of chopping whipping and layering.And while it’s true that many of us may not be big fans of store-bought cakes this recipe is one of the best ways to doctor up an otherwise boring and slightly dry angel food cake. The secret is in the fresh lemon and honey glaze that’s brushed over it.I think you’ll love the flavor in this dessert! Everything here pairs beautifully together and it’s sure to be a highlight of any summer gathering!",
+        "description":"And don’t be deceived by it’s fancy good looks you’ll actually find it really a breeze to prepare. That is thanks to the use of a store-bought cake to save plenty of prep time and no cool time required Did I mention it’s a no-bake no-cook dessert as well?There’s just a few simple steps here of chopping whipping and layering.And while it’s true that many of us may not be big fans of store-bought cakes this recipe is one of the best ways to doctor up an otherwise boring and slightly dry angel food cake. The secret is in the fresh lemon and honey glaze that’s brushed over it.I think you’ll love the flavor in this dessert! Everything here pairs beautifully together and it’s sure to be a highlight of any summer gathering!",
         "ingredients":[
         "- 1 (13 to 16 oz) store-bought angel food cake",
         "- 3 Tbsp fresh lemon juice",
@@ -67,9 +66,7 @@ const recipe =
     {
         "id": 3,
         "title": "Chocolate Cream Pie",
-        "description":"just like chocolate pudding but in pie form!Sure during the holidays we all love our fruity pies but some sort of chocolate pie is always a welcome change and definitely deserves a place in the line up. Chocolate lovers will thank you.It will be savored down to the last creamy topped crumb and may likely become a repeatedly requested tradition each holiday season!
-        
-        There are a few steps to it especially if you prepare the homemade pie crust but it’s worth every bit of effort and overall it is a straightforward easy method to follow. A critical step is just that you ensure the filling is thickened well over the stovetop so you’re pie will be firm enough to hold up when sliced.",
+        "description":"just like chocolate pudding but in pie form!Sure during the holidays we all love our fruity pies but some sort of chocolate pie is always a welcome change and definitely deserves a place in the line up. Chocolate lovers will thank you.It will be savored down to the last creamy topped crumb and may likely become a repeatedly requested tradition each holiday season!There are a few steps to it especially if you prepare the homemade pie crust but it’s worth every bit of effort and overall it is a straightforward easy method to follow. A critical step is just that you ensure the filling is thickened well over the stovetop so you’re pie will be firm enough to hold up when sliced.",
         "ingredients":[
         "- 1 blind baked pie crust, recipe here",
         "- 4 oz. bittersweet chocolate (60 to 65 percent) chopped small",
@@ -95,10 +92,7 @@ const recipe =
     {
         "id": 4,
         "title": "Christmas Tree Cookies",
-        "description":
-        "I made these with my kids this weekend for a fun baking project and I thought they were too good not to share.
-        These are unbelievably soft deliciously buttery perfectly sweet (once you add the frosting) and they’re simplistically satisfying – yet pretty and festive. Plus the decorating options are endless.
-        I’ve listed the recipe to include a little extra frosting because we know how kids (and some of us adults) like to decorate cookies – extra frosting and loads of sprinkles. If you like sugar cookies or blondies this is the holiday cookie for you!",
+        "description":"I made these with my kids this weekend for a fun baking project and I thought they were too good not to share. These are unbelievably soft deliciously buttery perfectly sweet (once you add the frosting) and they’re simplistically satisfying – yet pretty and festive. Plus the decorating options are endless.I’ve listed the recipe to include a little extra frosting because we know how kids (and some of us adults) like to decorate cookies – extra frosting and loads of sprinkles. If you like sugar cookies or blondies this is the holiday cookie for you!",
         "ingredients":[
         "- 1 1/3 cups (186g) unbleached all-purpose flour (scoop and level to measure)",
         "- 1/4 tsp baking soda",
@@ -128,12 +122,7 @@ const recipe =
     {
         "id": 5,
         "title": "Marshmallows",
-        "description":"
-        They truly are the best marshmallows you’ll ever eat (we’ve already made 5 batches for the holidays)! And they don’t require any fancy ingredients just some candy staples.
-        
-        For a streamlined process just be sure to have everything measured and tools ready before you begin to make things easier (such as lining and greasing the pan because this sticky mixture likes to begin to set quickly). Also read over the entire recipe before you start (as should be done with any recipe).
-        
-        These also make for a delicious Christmas gif paired with a jar of this homemade hot chocolate mix of course! The two combined makes the tastiest cup of hot cocoa ever!",
+        "description": "They truly are the best marshmallows you’ll ever eat (we’ve already made 5 batches for the holidays)! And they don’t require any fancy ingredients just some candy staples. For a streamlined process just be sure to have everything measured and tools ready before you begin to make things easier (such as lining and greasing the pan because this sticky mixture likes to begin to set quickly). Also read over the entire recipe before you start (as should be done with any recipe). These also make for a delicious Christmas gif paired with a jar of this homemade hot chocolate mix of course! The two combined makes the tastiest cup of hot cocoa ever!",
         "ingredients":["- 2/3 cup (80g) powdered sugar",
         "- 1/3 cup (46g) cornstarch",
         "- 1 cup (235ml) cold water divided",
@@ -161,11 +150,8 @@ const recipe =
     {
         "id": 6,
         "title": "Buffalo Chicken Dip",
-        "description":"
-        This simple dip is made with a handful of ingredients yet it really packs in a flavorful punch.
-        And there are so many options as to what you can use for dipping. Just think crispy for that finishing crunch to pair with it.
-        Then if you are lucky enough to have any leftovers spread in a quesadilla or make a mini pizza.",
-        "ingredients":["- 8 oz. cream cheese",
+        "description":"This simple dip is made with a handful of ingredients yet it really packs in a flavorful punch.And there are so many options as to what you can use for dipping. Just think crispy for that finishing crunch to pair with it.Then if you are lucky enough to have any leftovers spread in a quesadilla or make a mini pizza.",
+        "ingredients": ["- 8 oz. cream cheese",
         "- 1/3 cup mayonnaise",
         "- 1/4 cup sour cream",
         "- 1/2 cup Frank's hot sauce",
@@ -176,7 +162,8 @@ const recipe =
         "- 3/4 cup shredded mozzarella cheese divided",
         "- 1 Tbsp finely chopped fresh parsley plus more for garnish",
         "- 1 Tbsp thinly sliced green onions plus more for garnish"],
-        "procedure":["1. Preheat oven to 350 degrees.",
+        "procedure":[
+        "1. Preheat oven to 350 degrees.",
         "2. Place cream cheese in a large mixing bowl. Beat with an electric hand mixer until smooth.",
         "3. Add mayonnaise sour cream hot sauce baking soda and garlic and mix with mixer until blended (it's okay if it's a little lumpy the cream cheese will melt in the oven).",
         "4. Add chicken",
@@ -191,12 +178,7 @@ const recipe =
     "maindish":[{
         "id": 7,
         "title": "Chicken Stir-Fry",
-        "description":"
-        This healthy chicken stir-fry is no exception! It’s packed with veggies and it’s perfectly filling and flavorful.
-        And this version is perfectly saucy because isn’t that a must? Plus it’s easy to customize with your favorite vegetables or others you may have on hand.
-        Chicken Stir Fry 
-        You can also swap out the chicken breasts for chicken thighs if that’s what you prefer.
-        Skip going out and enjoy this delicious take-out style dinner at home instead!",
+        "description":"This healthy chicken stir-fry is no exception! It’s packed with veggies and it’s perfectly filling and flavorful. And this version is perfectly saucy because isn’t that a must? Plus it’s easy to customize with your favorite vegetables or others you may have on hand. Chicken Stir Fry You can also swap out the chicken breasts for chicken thighs if that’s what you prefer. Skip going out and enjoy this delicious take-out style dinner at home instead!",
         "ingredients":["- 2 Tbsp soy sauce or more to taste",
         "- 4 tsp cornstarch",
         "- 3/4 cup low-sodium chicken broth",
@@ -226,10 +208,7 @@ const recipe =
     {
         "id": 7,
         "title": "Chili",
-        "description":"
-        This slow cooker method is my favorite for chili. The flavor of the crockpot chili is rich and robust the texture of the beef is so tender and it turns out perfect every time!
-        It’s just the way the ground beef in chili should be. Six hours of slow cooking creates the best chili ever!
-        And have I mentioned how easy this it is to make? It’s a total breeze so this will likely become a recipe you won’t want to lose!",
+        "description": "This slow cooker method is my favorite for chili. The flavor of the crockpot chili is rich and robust the texture of the beef is so tender and it turns out perfect every time!It’s just the way the ground beef in chili should be. Six hours of slow cooking creates the best chili ever!And have I mentioned how easy this it is to make? It’s a total breeze so this will likely become a recipe you won’t want to lose!",
         "ingredients":["- 1 Tbsp olive oil",
         "- 2 lbs lean ground beef",
         "- 1 large yellow onion finely chopped",
@@ -279,48 +258,38 @@ const recipe =
     {
         "id": 10,
         "title": "Cobb Salad",
-        "description":"
-        Loaded to the max with bite size tender rotisserie chicken pieces super flavorful crispy bacon vibrantly tasty red onion rich eggs creamy avocado bold blue cheese and lightly sweet tomatoes.
-        
-        It’s a king of salads and easily worth the extra bit of prep!
-        
-        
-        This is also customizable with options to switch out the toppings or use a different type of dressing.",
-        "ingredients":"- 2/3 cup olive oil
-        - 2 Tbsp red wine vinegar
-        - 2 Tbsp lemon juice
-        - 2 tsp dijon mustard
-        - 1 tsp honey
-        - 1 tsp garlic
-        - 1/2 tsp each salt and freshly ground black pepper
-        - 8 slices bacon
-        - 4 large eggs
-        - 1 large head romaine lettuce chopped into bite size pieces
-        - 2 1/2 cups cooked rotisserie chicken chopped
-        - 1 1/2 cups grape tomatoes halved
-        - 1/2 small red onion thinly sliced (1/3 cup)
-        - 1 large avocado diced
-        - 3 oz blue cheese crumbled or 1 cup shredded cheddar cheese (we prefer cheddar)",
-        "procedure":"1. For the bacon: Preheat oven to 400 degrees. Line a rimmed 18 by 13-inch baking sheet with aluminum foil.
-        2. Lay bacon strips in a single layer on the baking sheet. Bake in preheated oven until crisp about 12 - 20 minutes (bake time varies based on thickness of bacon).
-        3. Drain on paper towels then chop.
-        4. For the eggs: Add 1-inch of water to a 4 quart pot or saucepan. Bring to a boil over medium-high heat.
-        5. Add eggs cover with lid and let cook 14 minutes. Transfer to a bowl of ice water right away. Let rest 15 minutes then peel eggs and chop.
-        6. Prepare salad: Layer lettuce into a large salad bowl or among five serving plates. Top with bacon eggs tomatoes onions avocado and blue cheese.
-        7. Whisk dressing again then pour over salad and serve.",
+        "description":"Loaded to the max with bite size tender rotisserie chicken pieces super flavorful crispy bacon vibrantly tasty red onion rich eggs creamy avocado bold blue cheese and lightly sweet tomatoes.It’s a king of salads and easily worth the extra bit of prep!This is also customizable with options to switch out the toppings or use a different type of dressing.",
+        "ingredients":["- 2/3 cup olive oil",
+        "- 2 Tbsp red wine vinegar",
+        "- 2 Tbsp lemon juice",
+        "- 2 tsp dijon mustard",
+        "- 1 tsp honey",
+        "- 1 tsp garlic",
+        "- 1/2 tsp each salt and freshly ground black pepper",
+        "- 8 slices bacon",
+        "- 4 large eggs",
+        "- 1 large head romaine lettuce chopped into bite size pieces",
+        "- 2 1/2 cups cooked rotisserie chicken chopped",
+        "- 1 1/2 cups grape tomatoes halved",
+        "- 1/2 small red onion thinly sliced (1/3 cup)",
+        "- 1 large avocado diced",
+        "- 3 oz blue cheese crumbled or 1 cup shredded cheddar cheese (we prefer cheddar)"],
+        "procedure":[
+        "1. For the bacon: Preheat oven to 400 degrees. Line a rimmed 18 by 13-inch baking sheet with aluminum foil.",
+        "2. Lay bacon strips in a single layer on the baking sheet. Bake in preheated oven until crisp about 12 - 20 minutes (bake time varies based on thickness of bacon).",
+        "3. Drain on paper towels then chop.",
+        "4. For the eggs: Add 1-inch of water to a 4 quart pot or saucepan. Bring to a boil over medium-high heat.",
+        "5. Add eggs cover with lid and let cook 14 minutes. Transfer to a bowl of ice water right away. Let rest 15 minutes then peel eggs and chop.",
+        "6. Prepare salad: Layer lettuce into a large salad bowl or among five serving plates. Top with bacon eggs tomatoes onions avocado and blue cheese.",
+        "7. Whisk dressing again then pour over salad and serve."],
         "image": "url"
     }],
     "seafood":[{
         "id": 11,
         "title": "Avocado Tuna Salad",
-        "description":"
-        I don’t have anything against classic tuna salad — I still make it all the time! — but I was curious to see if it would still be good without it and this olive oil and avocado version definitely makes the cut!
-        
-        I don’t recommend making this easy tuna salad recipe too far in advance. It’s best served soon after making it because the avocado will start to brown after a while and the juices in the veggies will break down.
-        So scale the avocado tuna recipe as needed if you don’t plan on serving to three people.
-        
-        I like to serve this avocado tuna salad in sandwich thins. Bread pita wraps croissants and sturdy lettuce leaves are good options too Or even just eat it plain sans bun or wrap. It also makes a great salad topping and can also be mixed with warm pasta for a tuna/pasta salad hybrid.",
-        "ingredients":["- 2 (5 oz) cans tuna in water, drained well*",
+        "description":"I don’t have anything against classic tuna salad — I still make it all the time! — but I was curious to see if it would still be good without it and this olive oil and avocado version definitely makes the cut! I don’t recommend making this easy tuna salad recipe too far in advance. It’s best served soon after making it because the avocado will start to brown after a while and the juices in the veggies will break down. So scale the avocado tuna recipe as needed if you don’t plan on serving to three people. I like to serve this avocado tuna salad in sandwich thins. Bread pita wraps croissants and sturdy lettuce leaves are good options too Or even just eat it plain sans bun or wrap. It also makes a great salad topping and can also be mixed with warm pasta for a tuna/pasta salad hybrid.",
+        "ingredients":[
+        "- 2 (5 oz) cans tuna in water, drained well*",
         "- 1/2 cup diced seeded tomatoes (2 small)",
         "- 1/2 cup diced yellow bell pepper (1/2 medium)",
         "- 1/3 cup chopped red onion ",
@@ -331,9 +300,8 @@ const recipe =
         "- Salt and freshly ground black pepper",
         "- Whole wheat sandwich thins pita pockets whole grain bread or romaine lettuce leaves for serving"],
         "procedure":[
-         "1. To a medium mixing bowl add drained tuna tomatoes bell pepper onion parsley avocado olive oil lemon juice and season with salt and pepper to taste.",
+        "1. To a medium mixing bowl add drained tuna tomatoes bell pepper onion parsley avocado olive oil lemon juice and season with salt and pepper to taste.",
         "2. Toss mixture. Serve in sandwich thins or pita pockets on toasted bread or as lettuce wraps.",
-        
         "Notes* If you plan on eating tuna a few times a month I recommend using light tun if you only eat it once in a while then white albacore is fine. I say this because recent studies show canned white albacore has 3x the mercury levels as light tuna so it shouldn't be eaten frequently.*Also if using the white albacore tuna mash it up in the bowl a bit first before adding other ingredients it just has a better mouthfeel this way.Nutrition is only for tuna salad bread or wrap not included."],
         "image": "url"
     },
@@ -415,8 +383,7 @@ const recipe =
     {
         "id": 15,
         "title": "Jambalaya",
-        "description":"
-        You may be wondering what is the difference between jambalaya and gumbo? The two dishes are very similar but a main distinction is that with gumbo it is served over rice while with jambalaya the rice is mixed right in and cooked with everything else. Gumbo is more stew-like and it usually takes hours of simmering whereas jambalaya can cook in under an hour and is drier.You can’t go wrong with either but today it’s all about the jambalaya! Isn’t it just fun to say? I mean it would have to taste good with a name like that!",
+        "description":"You may be wondering what is the difference between jambalaya and gumbo? The two dishes are very similar but a main distinction is that with gumbo it is served over rice while with jambalaya the rice is mixed right in and cooked with everything else. Gumbo is more stew-like and it usually takes hours of simmering whereas jambalaya can cook in under an hour and is drier.You can’t go wrong with either but today it’s all about the jambalaya! Isn’t it just fun to say? I mean it would have to taste good with a name like that!",
         "ingredients":[
         "- Olive oil – this helps brown the sausage. Vegetable oil works great here too.",
         "- Andouille sausage – I like to use cajun style sausage but most types of smoked sausage will work fine here.",
@@ -463,16 +430,7 @@ const recipe =
     {
         "id": 17,
         "title": "Candied Yams",
-        "description":"
-        The thing that really sets these apart from other candied yams is the browned butter
-
-        I started using browned butter in many of my sweet potato recipes because it really is the ultimate way to upgrade sweet potatoes.
-        
-        It perfectly compliments that sweet flavor while bringing a nutty caramel-like flavor to the dish.
-        
-        Once you try it this way you’ll never look back! It’s easily worth the few extra minutes to brown the butter.
-        
-        When a vegetable becomes a total treat everyone will love them!",
+        "description":"The thing that really sets these apart from other candied yams is the browned butterI started using browned butter in many of my sweet potato recipes because it really is the ultimate way to upgrade sweet potatoes It perfectly compliments that sweet flavor while bringing a nutty caramel-like flavor to the dish.Once you try it this way you’ll never look back! It’s easily worth the few extra minutes to brown the butter.When a vegetable becomes a total treat everyone will love them!",
         "ingredients":["- 4 lbs. sweet potatoes peeled and cut into 1/2-inch thick rounds",
        " - 1/2 cup salted butter sliced into 1 Tbsp pieces",
         "- 1 cup (220g) packed light brown sugar",
@@ -483,33 +441,21 @@ const recipe =
        " - 1/4 tsp ground ginger",
        " - 1/4 cup heavy cream",
         "- 1 Tbsp cornstarch"],
-        "procedure":["1 Preheat oven to 350 degrees. Spray a 13 by 9-inch baking dish with non-stick cooking spray.",
-        "2 Align sweet potatoes in rows in baking dish set aside.",
-        "3 Place butter pieces in a medium light colored skillet. Set over medium heat and let cook stirring frequently until it has just browned. Right away pour into a medium heat proof mixing bowl so it doesn't continue cooking.",
-        "4 Add brown sugar salt cinnamo nutmeg and ginger to butter and mix.",
-        "5 In a separate bowl whisk together cream and cornstarch until smooth and well combined. Pour cream mixture and vanilla into brown sugar mixture and whisk to blend well.",
-        "6 Pour brown sugar mixture evenly over sweet potatoes in baking dish. Cover tightly with foil.",
-        " 7 Bake in preheated oven 50 - 60 minutes until potatoes are nearly tender.",
-        "8 Uncover spoon sauce in dish over potatoes and continue to bake 10 - 20 minutes longer until potatoes are fully tender.",
-        "9 Serve warm with sauce spooned over top."],
+        "procedure":["1. Preheat oven to 350 degrees. Spray a 13 by 9-inch baking dish with non-stick cooking spray.",
+        "2. Align sweet potatoes in rows in baking dish set aside.",
+        "3. Place butter pieces in a medium light colored skillet. Set over medium heat and let cook stirring frequently until it has just browned. Right away pour into a medium heat proof mixing bowl so it doesn't continue cooking.",
+        "4. Add brown sugar salt cinnamo nutmeg and ginger to butter and mix.",
+        "5. In a separate bowl whisk together cream and cornstarch until smooth and well combined. Pour cream mixture and vanilla into brown sugar mixture and whisk to blend well.",
+        "6. Pour brown sugar mixture evenly over sweet potatoes in baking dish. Cover tightly with foil.",
+        "7. Bake in preheated oven 50 - 60 minutes until potatoes are nearly tender.",
+        "8. Uncover spoon sauce in dish over potatoes and continue to bake 10 - 20 minutes longer until potatoes are fully tender.",
+        "9. Serve warm with sauce spooned over top."],
         "image": "url"
     },
     {
         "id": 18,
         "title": "Caprese Salad",
-        "description":"
-        The traditional Italian caprese salad (pronounced “cah-preh-zseh”) is typically made with just tomatoes basil mozzarella and olive oil but I love the addition of a balsamic reduction. It adds so much flavor!
-
-        Once you try it this way you’ll never look back.
-        
-        
-        It’s unbelievably easy to make and only requires a handful of basic ingredients. And you can serve it as an appetizer or side dish.
-        
-        Sometimes it’s the simple most humble ingredients and methods that create the most delicious dishes and this caprese salad is proof of that.
-        
-        Who could resist these layers of flavor paired with a pattern of impressive eye catching colors?
-        
-        I think we could eat this every week for the rest of our lives and never get tired of it!",
+        "description":"The traditional Italian caprese salad (pronounced “cah-preh-zseh”) is typically made with just tomatoes basil mozzarella and olive oil but I love the addition of a balsamic reduction. It adds so much flavor! Once you try it this way you’ll never look back. It’s unbelievably easy to make and only requires a handful of basic ingredients. And you can serve it as an appetizer or side dishSometimes it’s the simple most humble ingredients and methods that create the most delicious dishes and this caprese salad is proof of that. Who could resist these layers of flavor paired with a pattern of impressive eye catching colors?I think we could eat this every week for the rest of our lives and never get tired of it!",
         "ingredients":["- 1/2 cup balsamic vinegar",
         "- 1 1/2 tsp honey (optional*)",
         "- 3 medium tomatoes cut into 1/3-inch slices (about 20 oz.)",
@@ -517,53 +463,37 @@ const recipe =
         "- 1/2 cup fresh basil leaves",
         "- 1/4 cup extra virgin olive oil",
         "- Salt and freshly ground black pepper"],
-        "procedure":["1 Whisk together balsamic vinegar and honey in a small saucepan. Bring to a simmer over medium heat then reduce heat to low and let simmer until thickened and reduced down to nearly 2 Tbsp about 8 - 11 minutes.",
-        "2 Pour into small bowl and let cool to room temperature about 10 minutes.",
-        "3 Layer tomato slices fresh mozzarella slices and basil on a rimmed serving platter.",
-        "4 Drizzle with olive oil balsamic reduction and season with salt and pepper to taste. Serve immediately."],
+        "procedure":["1. Whisk together balsamic vinegar and honey in a small saucepan. Bring to a simmer over medium heat then reduce heat to low and let simmer until thickened and reduced down to nearly 2 Tbsp about 8 - 11 minutes.",
+        "2. Pour into small bowl and let cool to room temperature about 10 minutes.",
+        "3. Layer tomato slices fresh mozzarella slices and basil on a rimmed serving platter.",
+        "4. Drizzle with olive oil balsamic reduction and season with salt and pepper to taste. Serve immediately."],
         "image": "url"
     },
     {
         "id": 19,
         "title": "Corn Salad",
-        "description":"
-        It’s one of the ultimate summer side dishes! It pairs so well with grilled main dishes like chicken, steak or salmon and it’s the perfect thing to bring along on a picnic.
-
-        This is simple and refreshing and brimming with nutritious goodness. A flavorful way to get your veggie intake.
-        
-        You’ll love the satisfying blend of textures and the overload of freshness.
-        
-        
-        If you plan on having any extra you could just wait to toss the other half with dressing and serve it the following day. I dream about leftovers of this for lunch!",
-        "ingredients":["- 4 larger ears fresh corn shucked (yields about 4 cups,
-        20 oz corn kernels)",
+        "description":"It’s one of the ultimate summer side dishes! It pairs so well with grilled main dishes like chicken, steak or salmon and it’s the perfect thing to bring along on a picnic. This is simple and refreshing and brimming with nutritious goodness. A flavorful way to get your veggie intake.You’ll love the satisfying blend of textures and the overload of freshness If you plan on having any extra you could just wait to toss the other half with dressing and serve it the following day. I dream about leftovers of this for lunch!",
+        "ingredients":["- 4 larger ears fresh corn shucked (yields about 4 cups,20 oz corn kernels)",
         "- 1 heaping cup halved grape tomatoes",
-       " - 1 cup diced English cucumber",
+        "- 1 cup diced English cucumber",
         "- 1/3 cup diced red onion",
-       " - 2/3 cup crumbled feta cheese",
+        "- 2/3 cup crumbled feta cheese",
         "- 3 Tbsp finely chopped fresh parsley",
         "- 2 Tbsp finely chopped fresh basil"],
-        "procedure":["1 Make dressing: In a mixing bowl whisk together olive oil red wine vinegar lemon juice honey garlic salt and pepper. Refrigerate while preparing salad.",
-        "2 For the salad: Bring a large pot of water to a boil. Have a large bowl of ice water ready nearby.",
-        "3 Once water in pot boils add corn and cook just 3 minutes (even 2 minutes if you want it a little more raw and crisp).",
-        "4 Transfer to ice water to cool for a few minutes. Drain well.",
-       " 5 Cut kernels from corn then transfer to a large bowl.",
-        "6 Add tomatoes cucumbers red onion feta parsley and basil.",
-        "7 Whisk dressing again then pour over salad. Toss well to coat season with more salt as desired."],
+        "procedure":["1. Make dressing: In a mixing bowl whisk together olive oil red wine vinegar lemon juice honey garlic salt and pepper. Refrigerate while preparing salad.",
+        "2. For the salad: Bring a large pot of water to a boil. Have a large bowl of ice water ready nearby.",
+        "3. Once water in pot boils add corn and cook just 3 minutes (even 2 minutes if you want it a little more raw and crisp).",
+        "4. Transfer to ice water to cool for a few minutes. Drain well.",
+        "5. Cut kernels from corn then transfer to a large bowl.",
+        "6. Add tomatoes cucumbers red onion feta parsley and basil.",
+        "7. Whisk dressing again then pour over salad. Toss well to coat season with more salt as desired."],
         "image": "url"
     },
     {
         "id": 20,
         "title": "Couscous Salad",
-        "description":"
-        Another salad recipe to add to the rotation! This one is made with fine tender couscous a rich olive oil dressing and the perfect pairing of bright tomatoes cucumbers and herbs.
-
-        It has a delicious Mediterranean flavor that pairs exceptionally well with seafood and chicken.
-        
-        It’s also very versatile and you can swap and add other ingredients like chick peas or pine nuts (see ideas in variations below).
-        
-        Here you got lots of nutritious ingredients in this tasty salad that you’ll feel great about eating! It makes a great lunch or delicious dinner side dish.",
-        "ingredients":[[
+        "description":"Another salad recipe to add to the rotation! This one is made with fine tender couscous a rich olive oil dressing and the perfect pairing of bright tomatoes cucumbers and herbs.It has a delicious Mediterranean flavor that pairs exceptionally well with seafood and chicken.It’s also very versatile and you can swap and add other ingredients like chick peas or pine nuts (see ideas in variations below).Here you got lots of nutritious ingredients in this tasty salad that you’ll feel great about eating! It makes a great lunch or delicious dinner side dish.",
+        "ingredients":[
             "- 1 cup dry Moroccan couscous*",
         "- 1 cup warm water**",
         "- Salt and freshly ground black pepper",
@@ -578,14 +508,15 @@ const recipe =
         "- 1/3 cup finely chopped fresh parsley",
        " - 2 Tbsp finely chopped fresh mint"],
         "procedure":[
-        "1 Bring water to a boil in a medium saucepan.",
-        "2 Right when it reaches a boil remove from heat and right away stir in couscous and salt and cover. Let rest 5 minutes.",
-        "3 Drizzle in 1 tsp olive oil fluff with a fork and let cool about 10 minutes in a salad bowl (toss occasionally if possible to reduce sticking). Meanwhile prepare remaining salad ingredients.",
-        "4 In a small mixing bowl whisk together remaining 1/4 cup olive oil lemon juice and garlic.",
-        "5 To bowl with couscous add tomatoes cucumber red onion feta almonds if using parsley and mint. Pour dressing over everything and toss to evenly coat."
-        "6 Season with salt and pepper to taste. Salad is best the day prepared but will keep in the fridge for 1 day"],
+        "1. Bring water to a boil in a medium saucepan.",
+        "2. Right when it reaches a boil remove from heat and right away stir in couscous and salt and cover. Let rest 5 minutes.",
+        "3. Drizzle in 1 tsp olive oil fluff with a fork and let cool about 10 minutes in a salad bowl (toss occasionally if possible to reduce sticking). Meanwhile prepare remaining salad ingredients.",
+        "4. In a small mixing bowl whisk together remaining 1/4 cup olive oil lemon juice and garlic.",
+        "5. To bowl with couscous add tomatoes cucumber red onion feta almonds if using parsley and mint. Pour dressing over everything and toss to evenly coat.",
+        "6. Season with salt and pepper to taste. Salad is best the day prepared but will keep in the fridge for 1 day"],
         "image": "url"
     }
 ]
 }
-module.exports = {recipes}
+
+module.exports = data
