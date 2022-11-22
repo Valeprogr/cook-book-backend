@@ -2,23 +2,23 @@ const express = require("express");
 const app = express();
 const PORT = 3000;
 
-const { data1 } = require('./data1')
+const { data } = require('./data')
 
 app.get("/",(req,res)=>{
-    const recipe = data1.map((recipe) =>{
-        const { title, description, image } = recipe
-        return { title, description, image}
-    })
-    res.json(recipe)
+    res.json(data)
 })
+
+
+
 
 app.get('/category/:id', (req, res) => {
     res.send(`<h1>category page</h1>`)
 })
 
-app.get('/recipe/:id', (req, res) => {
+app.get('/recipe/:id/:category', (req, res) => {
     const { id } = req.params
-    const recipe = data1.find((recipe) => recipe.id === Number(id))
+    const { category } = req.params
+    const recipe = data[category].find((recipe) => recipe.id === Number(id))
 
     if(!recipe){
         return res.status(404).send("Recipe not found")
