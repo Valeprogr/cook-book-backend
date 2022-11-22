@@ -473,25 +473,25 @@ const recipe =
         Once you try it this way you’ll never look back! It’s easily worth the few extra minutes to brown the butter.
         
         When a vegetable becomes a total treat everyone will love them!",
-        "ingredients":"- 4 lbs. sweet potatoes peeled and cut into 1/2-inch thick rounds
-        - 1/2 cup salted butter sliced into 1 Tbsp pieces
-        - 1 cup (220g) packed light brown sugar
-        - 2 tsp vanilla extract
-        - 3/4 tsp salt
-        - 1 tsp ground cinnamon
-        - 1/4 tsp ground nutmeg
-        - 1/4 tsp ground ginger
-        - 1/4 cup heavy cream
-        - 1 Tbsp cornstarch",
-        "procedure":"1 Preheat oven to 350 degrees. Spray a 13 by 9-inch baking dish with non-stick cooking spray.
-        2 Align sweet potatoes in rows in baking dish set aside.
-        3 Place butter pieces in a medium light colored skillet. Set over medium heat and let cook stirring frequently until it has just browned. Right away pour into a medium heat proof mixing bowl so it doesn't continue cooking.
-        4 Add brown sugar salt cinnamo nutmeg and ginger to butter and mix.
-        5 In a separate bowl whisk together cream and cornstarch until smooth and well combined. Pour cream mixture and vanilla into brown sugar mixture and whisk to blend well.
-        6 Pour brown sugar mixture evenly over sweet potatoes in baking dish. Cover tightly with foil.
-        7 Bake in preheated oven 50 - 60 minutes until potatoes are nearly tender.
-        8 Uncover spoon sauce in dish over potatoes and continue to bake 10 - 20 minutes longer until potatoes are fully tender.
-        9 Serve warm with sauce spooned over top.",
+        "ingredients":["- 4 lbs. sweet potatoes peeled and cut into 1/2-inch thick rounds",
+       " - 1/2 cup salted butter sliced into 1 Tbsp pieces",
+        "- 1 cup (220g) packed light brown sugar",
+       " - 2 tsp vanilla extract",
+       " - 3/4 tsp salt",
+        "- 1 tsp ground cinnamon",
+        "- 1/4 tsp ground nutmeg",
+       " - 1/4 tsp ground ginger",
+       " - 1/4 cup heavy cream",
+        "- 1 Tbsp cornstarch"],
+        "procedure":["1 Preheat oven to 350 degrees. Spray a 13 by 9-inch baking dish with non-stick cooking spray.",
+        "2 Align sweet potatoes in rows in baking dish set aside.",
+        "3 Place butter pieces in a medium light colored skillet. Set over medium heat and let cook stirring frequently until it has just browned. Right away pour into a medium heat proof mixing bowl so it doesn't continue cooking.",
+        "4 Add brown sugar salt cinnamo nutmeg and ginger to butter and mix.",
+        "5 In a separate bowl whisk together cream and cornstarch until smooth and well combined. Pour cream mixture and vanilla into brown sugar mixture and whisk to blend well.",
+        "6 Pour brown sugar mixture evenly over sweet potatoes in baking dish. Cover tightly with foil.",
+        " 7 Bake in preheated oven 50 - 60 minutes until potatoes are nearly tender.",
+        "8 Uncover spoon sauce in dish over potatoes and continue to bake 10 - 20 minutes longer until potatoes are fully tender.",
+        "9 Serve warm with sauce spooned over top."],
         "image": "url"
     },
     {
@@ -510,17 +510,17 @@ const recipe =
         Who could resist these layers of flavor paired with a pattern of impressive eye catching colors?
         
         I think we could eat this every week for the rest of our lives and never get tired of it!",
-        "ingredients":"- 1/2 cup balsamic vinegar
-        - 1 1/2 tsp honey (optional*)
-        - 3 medium tomatoes cut into 1/3-inch slices (about 20 oz.)
-        - 16 oz. fresh mozzarella cut into 1/3-inch slices
-        - 1/2 cup fresh basil leaves
-        - 1/4 cup extra virgin olive oil
-        - Salt and freshly ground black pepper",
-        "procedure":"1 Whisk together balsamic vinegar and honey in a small saucepan. Bring to a simmer over medium heat then reduce heat to low and let simmer until thickened and reduced down to nearly 2 Tbsp about 8 - 11 minutes.
-        2 Pour into small bowl and let cool to room temperature about 10 minutes.
-        3 Layer tomato slices fresh mozzarella slices and basil on a rimmed serving platter.
-        4 Drizzle with olive oil balsamic reduction and season with salt and pepper to taste. Serve immediately.",
+        "ingredients":["- 1/2 cup balsamic vinegar",
+        "- 1 1/2 tsp honey (optional*)",
+        "- 3 medium tomatoes cut into 1/3-inch slices (about 20 oz.)",
+        "- 16 oz. fresh mozzarella cut into 1/3-inch slices",
+        "- 1/2 cup fresh basil leaves",
+        "- 1/4 cup extra virgin olive oil",
+        "- Salt and freshly ground black pepper"],
+        "procedure":["1 Whisk together balsamic vinegar and honey in a small saucepan. Bring to a simmer over medium heat then reduce heat to low and let simmer until thickened and reduced down to nearly 2 Tbsp about 8 - 11 minutes.",
+        "2 Pour into small bowl and let cool to room temperature about 10 minutes.",
+        "3 Layer tomato slices fresh mozzarella slices and basil on a rimmed serving platter.",
+        "4 Drizzle with olive oil balsamic reduction and season with salt and pepper to taste. Serve immediately."],
         "image": "url"
     },
     {
@@ -535,21 +535,21 @@ const recipe =
         
         
         If you plan on having any extra you could just wait to toss the other half with dressing and serve it the following day. I dream about leftovers of this for lunch!",
-        "ingredients":"- 4 larger ears fresh corn shucked (yields about 4 cups,
-        20 oz corn kernels)
-        - 1 heaping cup halved grape tomatoes
-        - 1 cup diced English cucumber
-        - 1/3 cup diced red onion
-        - 2/3 cup crumbled feta cheese
-        - 3 Tbsp finely chopped fresh parsley
-        - 2 Tbsp finely chopped fresh basil",
-        "procedure":"1 Make dressing: In a mixing bowl whisk together olive oil red wine vinegar lemon juice honey garlic salt and pepper. Refrigerate while preparing salad.
-        2 For the salad: Bring a large pot of water to a boil. Have a large bowl of ice water ready nearby.
-        3 Once water in pot boils add corn and cook just 3 minutes (even 2 minutes if you want it a little more raw and crisp).
-        4 Transfer to ice water to cool for a few minutes. Drain well.
-        5 Cut kernels from corn then transfer to a large bowl.
-        6 Add tomatoes cucumbers red onion feta parsley and basil.
-        7 Whisk dressing again then pour over salad. Toss well to coat season with more salt as desired.",
+        "ingredients":["- 4 larger ears fresh corn shucked (yields about 4 cups,
+        20 oz corn kernels)",
+        "- 1 heaping cup halved grape tomatoes",
+       " - 1 cup diced English cucumber",
+        "- 1/3 cup diced red onion",
+       " - 2/3 cup crumbled feta cheese",
+        "- 3 Tbsp finely chopped fresh parsley",
+        "- 2 Tbsp finely chopped fresh basil"],
+        "procedure":["1 Make dressing: In a mixing bowl whisk together olive oil red wine vinegar lemon juice honey garlic salt and pepper. Refrigerate while preparing salad.",
+        "2 For the salad: Bring a large pot of water to a boil. Have a large bowl of ice water ready nearby.",
+        "3 Once water in pot boils add corn and cook just 3 minutes (even 2 minutes if you want it a little more raw and crisp).",
+        "4 Transfer to ice water to cool for a few minutes. Drain well.",
+       " 5 Cut kernels from corn then transfer to a large bowl.",
+        "6 Add tomatoes cucumbers red onion feta parsley and basil.",
+        "7 Whisk dressing again then pour over salad. Toss well to coat season with more salt as desired."],
         "image": "url"
     },
     {
@@ -563,25 +563,27 @@ const recipe =
         It’s also very versatile and you can swap and add other ingredients like chick peas or pine nuts (see ideas in variations below).
         
         Here you got lots of nutritious ingredients in this tasty salad that you’ll feel great about eating! It makes a great lunch or delicious dinner side dish.",
-        "ingredients":["- 1 cup dry Moroccan couscous*
-        - 1 cup warm water**
-        - Salt and freshly ground black pepper
-        - 1/4 cup + 1 tsp olive oil divided (regular or extra virgin)
-        - 2 Tbsp fresh lemon juice
-        - 1 tsp minced garlic (1 clove)
-        - 1 1/2 cups grape tomatoes halved
-        - 1 1/2 cups diced English cucumber
-        - 1/3 cup diced red onion
-        - 1/3 cup finely crumbled feta cheese
-        - 1/3 cup toasted slivered almonds (optional but highly recommended)
-        - 1/3 cup finely chopped fresh parsley
-        - 2 Tbsp finely chopped fresh mint",
-        "procedure":"1 Bring water to a boil in a medium saucepan.
-        2 Right when it reaches a boil remove from heat and right away stir in couscous and salt and cover. Let rest 5 minutes.
-        3 Drizzle in 1 tsp olive oil fluff with a fork and let cool about 10 minutes in a salad bowl (toss occasionally if possible to reduce sticking). Meanwhile prepare remaining salad ingredients.
-        4 In a small mixing bowl whisk together remaining 1/4 cup olive oil lemon juice and garlic.
-        5 To bowl with couscous add tomatoes cucumber red onion feta almonds if using parsley and mint. Pour dressing over everything and toss to evenly coat.
-        6 Season with salt and pepper to taste. Salad is best the day prepared but will keep in the fridge for 1 day",
+        "ingredients":[[
+            "- 1 cup dry Moroccan couscous*",
+        "- 1 cup warm water**",
+        "- Salt and freshly ground black pepper",
+        "- 1/4 cup + 1 tsp olive oil divided (regular or extra virgin)",
+        "- 2 Tbsp fresh lemon juice",
+        "- 1 tsp minced garlic (1 clove)",
+       " - 1 1/2 cups grape tomatoes halved",
+        "- 1 1/2 cups diced English cucumber",
+        "- 1/3 cup diced red onion",
+        "- 1/3 cup finely crumbled feta cheese",
+        "- 1/3 cup toasted slivered almonds (optional but highly recommended)",
+        "- 1/3 cup finely chopped fresh parsley",
+       " - 2 Tbsp finely chopped fresh mint"],
+        "procedure":[
+        "1 Bring water to a boil in a medium saucepan.",
+        "2 Right when it reaches a boil remove from heat and right away stir in couscous and salt and cover. Let rest 5 minutes.",
+        "3 Drizzle in 1 tsp olive oil fluff with a fork and let cool about 10 minutes in a salad bowl (toss occasionally if possible to reduce sticking). Meanwhile prepare remaining salad ingredients.",
+        "4 In a small mixing bowl whisk together remaining 1/4 cup olive oil lemon juice and garlic.",
+        "5 To bowl with couscous add tomatoes cucumber red onion feta almonds if using parsley and mint. Pour dressing over everything and toss to evenly coat."
+        "6 Season with salt and pepper to taste. Salad is best the day prepared but will keep in the fridge for 1 day"],
         "image": "url"
     }
 ]
