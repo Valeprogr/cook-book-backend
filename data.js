@@ -156,12 +156,7 @@ const data = [
     {
         "id": 6,
         "title": "Buffalo Chicken Dip",
-        "description":"
-
-        This simple dip is made with a handful of ingredients yet it really packs in a flavorful punch.
-        
-        
-        And there are so many options as to what you can use for dipping. Just think crispy for that finishing crunch to pair with it.
+        "description":"This simple dip is made with a handful of ingredients yet it really packs in a flavorful punch.And there are so many options as to what you can use for dipping. Just think crispy for that finishing crunch to pair with it.
         
         Then if you are lucky enough to have any leftovers spread in a quesadilla or make a mini pizza.",
         "ingredients":"- 8 oz. cream cheese
