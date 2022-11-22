@@ -33,7 +33,7 @@ const data =
         "14. Let cool for about 10 minutes. Brush with honey or apricot preserves if desired before slicing. Serve with vanilla ice cream if desired.",
       ],
       
-      "image": "",
+      "image": "./img/apple-galette-25-600x900.jpg",
     },
     {
         "id": 2,
@@ -519,4 +519,4 @@ const data =
 ]
 }
 
-module.exports = data
+module.exports = {data}

@@ -2,34 +2,28 @@ const express = require("express");
 const app = express();
 const PORT = 3000;
 
-app.get("/",(req,res,next)=>{
-    res.send(`
-    <h1>Home page</h1>
-    <p>Welcome to our cookbook</p>
-    <ul>
-      <li><a href='/category/:id'>Seefood</a></li>
-      <li><a href='/category/:id'>Maindish</a></li>
-      <li><a href='/category/:id'>Veggy</a></li>
-      <li><a href='/category/:id'>Dessert</a></li>
-      <li><a href='/category/:id'>Dessert</a></li>
-    </ul>
-    `)
+const { data1 } = require('./data1')
+
+app.get("/",(req,res)=>{
+    const recipe = data1.map((recipe) =>{
+        const { title, description, image } = recipe
+        return { title, description, image}
+    })
+    res.json(recipe)
 })
 
 app.get('/category/:id', (req, res) => {
-    res.send(`
-    <h1>Category page!</h1>
-    <p>Welcome to our category page</p>
-    <h2><a href='/'>Back home</a></h2>
-    `);
+    res.send(`<h1>category page</h1>`)
 })
 
 app.get('/recipe/:id', (req, res) => {
-    res.send(`
-    <h1>Recipe page!</h1>
-    <p>Welcome to our category page</p>
-    <h2><a href='/'>Back home</a></h2>
-    `);;
+    const { id } = req.params
+    const recipe = data1.find((recipe) => recipe.id === Number(id))
+
+    if(!recipe){
+        return res.status(404).send("Recipe not found")
+    }
+    res.json(recipe);
 })
 
 app.listen(PORT, ()=>{
