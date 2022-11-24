@@ -3,10 +3,10 @@
 // const app = express();
 
 // const pool = new Pool({
-//     user: 'postgres',
-//     host: 'localhost',
-//     database: 'recipes',
-//     password '123456789',
+//     user: '',
+//     host: '',
+//     database: '',
+//     password '',
 //     port: 5432,
 // });
 
