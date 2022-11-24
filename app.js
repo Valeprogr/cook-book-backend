@@ -1,15 +1,12 @@
 const express = require("express");
 const app = express();
 const PORT = 3000;
-
 const { data } = require('./data')
+
 
 app.get("/",(req,res)=>{
     res.json(data)
 })
-
-
-
 
 app.get('/category/:id', (req, res) => {
     res.send(`<h1>category page</h1>`)
